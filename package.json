@@ -1,0 +1,10 @@
+{
+  "name": "markdown-it-wikilink-playground",
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "markdown-it": "14.1.0"
+  }
+}
