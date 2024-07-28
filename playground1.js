@@ -14,5 +14,7 @@ Paragraph [[Foobar]].
 [[Test 1]].
 
 [[Test 1|With label]].
+
+![[Img.png]]
 `)
 );
